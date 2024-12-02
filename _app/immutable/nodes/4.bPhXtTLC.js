@@ -1,1 +1,0 @@
-import{a as t,t as e}from"../chunks/disclose-version.B_m5_LK3.js";import"../chunks/legacy.CO0_QLJH.js";import{c as i,r as m}from"../chunks/runtime.9Bm1ekdh.js";import{V as p}from"../chunks/video.C39JJyB9.js";var s=e('<div class="mx-5"><!></div>');function f(a){var o=s(),r=i(o);p(r,{}),m(o),t(a,o)}export{f as component};

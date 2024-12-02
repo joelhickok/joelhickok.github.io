@@ -1,4 +1,4 @@
-import{a as t,t as s}from"../chunks/disclose-version.B_m5_LK3.js";import"../chunks/legacy.CO0_QLJH.js";var i=s(`<div class="mx-5"><div class="text-3xl font-semibold">General Info</div> <hr class="my-3"> <div class="flex justify-evenly gap-4"><div class="grow" style="max-width: 50%;"><div class="text-xl font-semibold">Background</div> <p class="mt-2">All grandparents are working livestock dogs. Sire and dame are excellent property guardian dogs and
+import{a as t,t as s}from"../chunks/disclose-version.BVEkwIoN.js";import"../chunks/legacy.CV--IeaW.js";var i=s(`<div class="mx-5"><div class="text-3xl font-semibold">General Info</div> <hr class="my-3"> <div class="flex justify-evenly gap-4"><div class="grow" style="max-width: 50%;"><div class="text-xl font-semibold">Background</div> <p class="mt-2">All grandparents are working livestock dogs. Sire and dame are excellent property guardian dogs and
                 currently
                 not with livestock.</p> <p class="mt-2">If expected to "work," we are confident that the entire litter will excel at guarding livestock
                 following general
