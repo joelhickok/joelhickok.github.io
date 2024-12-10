@@ -1,1 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
 Sitemap: https://joelhickok.github.io/sitemap.txt
