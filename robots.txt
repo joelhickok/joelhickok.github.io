@@ -1,6 +1,2 @@
-User-agent: Googlebot
-
 User-agent: *
-Allow: /
-
-Sitemap: https://joelhickok.github.io/sitemap.xml
+Disallow:
