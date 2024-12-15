@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<div id="404" style="max-width: 1024px; margin: 0 auto; display: none;">
+<div id="page" style="max-width: 1024px; margin: 0 auto; display: none;">
     <h1>Page Not Found</h1>
 
     <a href="/">Main Page</a>
@@ -27,7 +27,8 @@
         localStorage.setItem('path', path);
         window.location.href='../';
     } else {
-        document.getElementById('404').style.display = 'block;'
+        console.log(document.getElementById('page'))
+        document.getElementById('page').style.display = 'block;'
     }
 </script>
 
